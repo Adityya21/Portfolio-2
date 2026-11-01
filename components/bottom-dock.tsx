@@ -13,12 +13,10 @@ import {
   Home,
   User,
   Briefcase,
-  GitBranch,
   FolderOpen,
   Mail,
   GraduationCap,
   Award,
-  Zap,
 } from "lucide-react";
 import { useRef, useState, useEffect, useCallback } from "react";
 import { Caveat } from "next/font/google";

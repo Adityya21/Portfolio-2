@@ -72,10 +72,6 @@ export default function RootLayout({
   return (
     <html lang="en" className="scroll-smooth">
       <head>
-        <link rel="preconnect" href="https://pbs.twimg.com" />
-        <link rel="preconnect" href="https://abs.twimg.com" />
-        <link rel="dns-prefetch" href="https://pbs.twimg.com" />
-        <link rel="dns-prefetch" href="https://abs.twimg.com" />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{

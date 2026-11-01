@@ -1,7 +1,7 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { Zap, Shield, Layers, Terminal } from "lucide-react";
+import { Zap, Layers } from "lucide-react";
 import { ScrollReveal } from "@/components/scroll-reveal";
 import type { About as AboutData } from "@/types/portfolio";
 
