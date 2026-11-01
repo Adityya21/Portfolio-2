@@ -1,0 +1,218 @@
+{
+  "personal": {
+    "name": "Aditya Yashovardhan",
+    "role": "BTech Computer Science Engineering Student",
+    "tagline": "Passionate about AI, Machine Learning, and Data Analytics — building intelligent systems that solve complex problems.",
+    "location": "Mumbai, India",
+    "email": "aditya.yashovardhan21@gmail.com",
+    "availability": "Open to opportunities"
+  },
+  "about": {
+    "bio": "I am a BTech Computer Science Engineering Student at MPSTME, NMIMS University. My interests lie in developing AI and machine learning models, working with data analytics, and creating intelligent software solutions. I bring a unique blend of technical expertise, analytical problem solving, and a genuine enthusiasm for creating impactful systems.",
+    "skills": [
+      "Python",
+      "C++",
+      "Java",
+      "SQL",
+      "TensorFlow",
+      "XGBoost",
+      "LangChain",
+      "Pandas",
+      "NumPy",
+      "Matplotlib",
+      "Seaborn",
+      "Power BI",
+      "Tableau",
+      "Streamlit"
+    ]
+  },
+  "work": [
+    {
+      "company": "Sobus Insight Forum",
+      "role": "Event Management Member",
+      "date": "August 2024 – July 2025",
+      "location": "Shirpur, Maharashtra",
+      "description": "Organized events, panel discussions, and interactive sessions to foster innovation and student engagement.",
+      "highlights": [
+        "Organized events, panel discussions, and interactive sessions",
+        "Fostered innovation and student engagement across the campus"
+      ]
+    },
+    {
+      "company": "Seva Ek Nai Pahal",
+      "role": "Elder Care Volunteer",
+      "date": "June 2024",
+      "location": "Bilaspur, Chhattisgarh",
+      "description": "Volunteered at an NGO supporting senior citizens; assisted with daily routines, organized activities, provided emotional support.",
+      "highlights": [
+        "Assisted senior citizens with daily routines and organized activities",
+        "Provided emotional support and companionship"
+      ]
+    }
+  ],
+  "openSource": [],
+  "freelancing": [],
+  "projects": [
+    {
+      "title": "AI-Stock Predictor",
+      "description": "Multi-model stock price prediction system using Bi-LSTM-GRU, Random Forest, and XGBoost with 30+ financial indicators.",
+      "tags": [
+        "Python",
+        "TensorFlow",
+        "XGBoost",
+        "Pandas"
+      ],
+      "link": "https://github.com/Adityya21/AI-Stock-Price-Predictor",
+      "featured": true
+    },
+    {
+      "title": "Music Genre Classifier",
+      "description": "CNN-based deep learning model classifying music into 10 genres from raw audio with 88.55% accuracy.",
+      "tags": [
+        "Python",
+        "TensorFlow",
+        "CNN",
+        "Deep Learning"
+      ],
+      "link": "https://github.com/Adityya21/Genre-Music-Classification",
+      "featured": true
+    },
+    {
+      "title": "AI Research System",
+      "description": "Multi-agent research automation system using LangChain, Groq, and Tavily for automated research workflows.",
+      "tags": [
+        "LangChain",
+        "Groq",
+        "Tavily",
+        "Python"
+      ],
+      "link": "https://github.com/Adityya21/Multi-Agent-AI-Research-System",
+      "featured": true
+    },
+    {
+      "title": "Bank Churn AI Advisor",
+      "description": "XGBoost model (AUC 0.91) predicting bank customer churn, explained by SHAP. Uses Llama 3.1 via Groq to generate personalised retention strategies. Built with Streamlit.",
+      "tags": [
+        "XGBoost",
+        "SHAP",
+        "Streamlit",
+        "Groq"
+      ],
+      "link": "https://github.com/Adityya21/Bank-Churn-AI-Advisor",
+      "featured": true
+    },
+    {
+      "title": "US Airlines Sentiment Analysis",
+      "description": "Streamlit NLP app analysing ~14,600 tweets across 6 US airlines. Combines VADER scoring, text feature engineering & visualisations via Sankey diagrams, radar charts, heatmaps & word clouds.",
+      "tags": [
+        "NLP",
+        "Streamlit",
+        "VADER",
+        "Python"
+      ],
+      "link": "https://github.com/Adityya21/Sentiment-Analysis-Of-US-Airlines-Tweets",
+      "featured": false
+    },
+    {
+      "title": "Power BI Food Delivery Dashboard",
+      "description": "End-to-end business analytics dashboard built in Power BI for a food delivery app, covering order trends, revenue analytics, customer insights & operational KPIs.",
+      "tags": [
+        "Power BI",
+        "Data Analytics",
+        "Dashboard"
+      ],
+      "link": "https://github.com/Adityya21/End-to-End-Business-Analytics-Dashboard-in-Power-BI-Food-Delivery-App-Data-",
+      "featured": false
+    },
+    {
+      "title": "WB 2026 Assembly Election Analysis",
+      "description": "End-to-end data analytics pipeline for the 2026 West Bengal Assembly Election — scraping, cleaning, 12 statistical analyses, and an interactive dashboard covering 293 constituencies across 5 election cycles.",
+      "tags": [
+        "Python",
+        "Data Analytics",
+        "Pandas",
+        "Dashboard"
+      ],
+      "link": "https://github.com/Adityya21/wb2026-assembly-election-analysis",
+      "featured": false
+    },
+    {
+      "title": "Algorithmic Trading Backtester",
+      "description": "ML-driven trading strategy backtester using Gradient Boosting with Purged K-Fold CV, custom simulation engine, and look-ahead bias safeguards. Built with Pandas, Scikit-Learn & Streamlit.",
+      "tags": [
+        "Scikit-Learn",
+        "Streamlit",
+        "Pandas",
+        "ML"
+      ],
+      "link": "https://github.com/Adityya21/Algorithmic-Trading-Strategy-Backtester",
+      "featured": false
+    },
+    {
+      "title": "E-Commerce CLV Segmentation",
+      "description": "Intelligent analytics dashboard using ML to segment e-commerce customers into actionable groups like 'Premium Loyalists' and 'At-Risk Whales' based on Customer Lifetime Value analysis.",
+      "tags": [
+        "Machine Learning",
+        "Python",
+        "Analytics"
+      ],
+      "link": "https://github.com/Adityya21/E-Commerce-Customer-Lifetime-Value-CLV-Segmentation",
+      "featured": false
+    }
+  ],
+  "education": [
+    {
+      "title": "B.Tech Computer Engineering",
+      "institution": "MPSTME, NMIMS University",
+      "year": "2023 - 2027"
+    },
+    {
+      "title": "CBSE (Class XII)",
+      "institution": "Himalayan Public School",
+      "year": "2023"
+    },
+    {
+      "title": "CBSE (Class X)",
+      "institution": "St. Francis Higher Secondary School",
+      "year": "2021"
+    }
+  ],
+  "certifications": [
+    {
+      "title": "AWS Academy Graduate - Cloud Architecting",
+      "organization": "Amazon Web Services (AWS)",
+      "year": "2026",
+      "link": "https://www.credly.com/badges/7bfbd4ad-c8c1-461f-97a8-87fb03cbb282/linked_in_profile"
+    },
+    {
+      "title": "Managing Projects with AI",
+      "organization": "Coursera",
+      "year": "2026",
+      "link": "https://www.coursera.org/account/accomplishments/verify/1FXJBWQJX2S8"
+    },
+    {
+      "title": "Leadership Skills",
+      "organization": "Indian Institute of Management Ahmedabad",
+      "year": "2026",
+      "link": "https://www.coursera.org/account/accomplishments/verify/KCKBRHK0CZLG"
+    },
+    {
+      "title": "Google Data Analytics Certificate",
+      "organization": "Google",
+      "year": "2025",
+      "link": "https://www.skills.google/public_profiles/8e569f28-00cd-4a89-9a83-2d74a0ea195c/badges/15804072"
+    }
+  ],
+  "achievements": [],
+  "hobby": {
+    "videos": [],
+    "articles": []
+  },
+  "socials": {
+    "github": "https://github.com/Adityya21/",
+    "linkedin": "https://www.linkedin.com/in/aditya-yashovardhan-859276296/",
+    "leetcode": "https://leetcode.com/u/fvgKStlmkk/",
+    "x": "",
+    "resume": ""
+  }
+}
