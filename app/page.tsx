@@ -3,6 +3,7 @@ import type { PortfolioData } from "@/types/portfolio";
 import dynamic from "next/dynamic";
 import { Hero } from "@/components/sections/hero";
 import { About } from "@/components/sections/about";
+import { Experience } from "@/components/sections/experience";
 import { Work } from "@/components/sections/work";
 import { Projects } from "@/components/sections/projects";
 import { SectionDivider } from "@/components/section-divider";
@@ -30,6 +31,8 @@ export default function Home() {
       <CommitGraph />
       <SectionDivider />
       <About about={data.about} />
+      <SectionDivider />
+      <Experience experience={data.experience} />
       <SectionDivider />
       <Work work={data.work} />
       <SectionDivider />

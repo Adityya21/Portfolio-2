@@ -13,6 +13,7 @@ import {
   Home,
   User,
   Briefcase,
+  Sparkles,
   FolderOpen,
   Mail,
   GraduationCap,
@@ -29,7 +30,8 @@ const caveat = Caveat({
 const DOCK_ITEMS = [
   { icon: Home, label: "Home", href: "#hero" },
   { icon: User, label: "About", href: "#about" },
-  { icon: Briefcase, label: "Activities", href: "#work" },
+  { icon: Briefcase, label: "Experience", href: "#experience" },
+  { icon: Sparkles, label: "Activities", href: "#work" },
   { icon: FolderOpen, label: "Projects", href: "#projects" },
   { icon: GraduationCap, label: "Education", href: "#education" },
   { icon: Award, label: "Certifications", href: "#certifications" },

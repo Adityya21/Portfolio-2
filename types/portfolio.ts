@@ -21,6 +21,16 @@ export interface WorkEntry {
   highlights?: string[];
 }
 
+export interface ExperienceEntry {
+  company: string;
+  role: string;
+  category?: string;
+  date?: string;
+  location?: string;
+  description?: string;
+  highlights?: string[];
+}
+
 export interface Project {
   title: string;
   description: string;
@@ -54,6 +64,7 @@ export interface Socials {
 export interface PortfolioData {
   personal: Personal;
   about: About;
+  experience?: ExperienceEntry[];
   work: WorkEntry[];
   projects: Project[];
   education: EducationEntry[];
